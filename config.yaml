@@ -1,0 +1,6 @@
+name: oxtrchain
+version: 0.1.0
+
+# tambahkan ini
+build:
+  main: cmd/oxtrchaind
