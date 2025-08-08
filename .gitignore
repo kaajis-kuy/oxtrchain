@@ -7,3 +7,9 @@ release/
 *.dot
 *.log
 *.ign
+bin/
+*.log
+.env
+node_modules/
+.idea/
+.vscode/
